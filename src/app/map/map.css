@@ -1,0 +1,9 @@
+path:hover {
+    fill: #ff7043;   
+    cursor: pointer;
+    transition: fill 0.15s ease;
+  }
+  
+  path.selected {
+    fill: #ef5350; 
+  }
